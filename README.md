@@ -62,6 +62,6 @@ Security Researcher · Developer
 
 <br><br>
 
-<sub>Build quietly. Learn constantly. Break responsibly.</sub>
+<sub>Always finish your work without leaving a trace .</sub>
 
 </div>
