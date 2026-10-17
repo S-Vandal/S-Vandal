@@ -1,39 +1,54 @@
-<h1 align="center">Mohammad Sadra</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=380&lines=Hi%2C+I'm+Sadra;Call+me+Vandal;Cybersecurity+Enthusiast" />
-</p>
+# Mohammad Sadra
 
-<p align="center">
-  <a href="https://github.com/S-Vandal">
-    <img src="https://img.shields.io/badge/GitHub-S--Vandal-0d1117?style=flat-square&logo=github&logoColor=00ff9c" />
-  </a>
-  <img src="https://img.shields.io/badge/Age-17-0d1117?style=flat-square&labelColor=0d1117&color=00ff9c" />
-</p>
+**Hi, I'm Sadra — you can call me Vandal.**
 
----
+`17 y/o` · `Security Researcher` · `Developer`
 
-### `About`
+<br>
 
-Hi, I'm Sadra — you can call me Vandal.  
-17 years old, interested in cybersecurity and software development.
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python"/>
+<img src="https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25" alt="Bash"/>
+<img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux"/>
+<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5"/>
+<img src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP"/>
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
 
-### `Languages & Tools`
+<br><br>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,bash,linux,html,php,js&theme=dark" />
-</p>
+<img src="https://img.shields.io/badge/DEBUGGING-8B5CF6?style=flat-square" alt="Debugging"/>
+<img src="https://img.shields.io/badge/PENETRATION_TESTING-8B5CF6?style=flat-square" alt="Penetration Testing"/>
+<img src="https://img.shields.io/badge/EXPLOIT_RESEARCH-8B5CF6?style=flat-square" alt="Exploit Research"/>
 
-### `Expertise`
-
-`Debugging` · `Penetration Testing` · `Exploit Research` · `Vulnerability Analysis`
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=S-Vandal&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9&rank_icon=github" height="140" />
-</p>
+## ⌁ About Me
 
-<p align="center">
-  <code>Access Granted.</code>
-</p>
+```text
+NAME       Mohammad Sadra
+ALIAS      Vandal
+FOCUS      Cybersecurity & Software Development
+INTERESTS  Debugging, Pentesting, Exploit Research
+```
+
+## ⌁ Technologies
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,bash,linux,html,php,js&theme=dark" alt="Technologies"/>
+</div>
+
+---
+
+## ⌁ GitHub Statistics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=S-Vandal&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Vandal&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Top Languages"/>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=S-Vandal&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <br><br>
+  <sub>Build quietly. Learn constantly. Break responsibly.</sub>
+</div>
