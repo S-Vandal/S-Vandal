@@ -25,7 +25,6 @@ Security Researcher · Developer
 <img src="https://img.shields.io/badge/EXPLOIT_RESEARCH-171321?style=for-the-badge&logo=hackthebox&logoColor=A78BFA" alt="Exploit Research"/>
 
 <br><br>
-
 | Cybersecurity | Software Development |
 |:---:|:---:|
 | Security Analysis | CLI Applications |
