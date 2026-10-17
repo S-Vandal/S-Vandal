@@ -1,65 +1,42 @@
-<div align="center">
 
-# Mohammad Sadra
+<h1 align="center">Mohammad Sadra</h1>
 
-**Hi, I'm Sadra — you can call me Vandal.**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=700&color=00FF99&center=true&vCenter=true&width=650&lines=SECURITY+RESEARCHER;PENETRATION+TESTING;BUG+BOUNTY;EXPLOIT+RESEARCH" alt="Animated title">
+</p>
 
-<br>
-
-<a href="https://github.com/S-Vandal">
-<img src="https://img.shields.io/badge/GitHub-S--Vandal-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub Profile"/>
-</a>
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-00FF99?style=for-the-badge&labelColor=080808">
+  <img src="https://img.shields.io/badge/ENVIRONMENT-LINUX-00FF99?style=for-the-badge&labelColor=080808">
+</p>
 
 ---
 
-<h2 align="center">⌁ SKILLS & EXPERTISE</h2>
+<h2 align="center">ABOUT ME</h2>
 
-<div align="center">
+<p align="center">
+  Hello , I’m Mohammad Sadra ; I’m 17 years old and a gray-hat hacker .
+</p>
 
-<img src="https://img.shields.io/badge/DEBUGGING-171321?style=for-the-badge&logo=debugging&logoColor=A78BFA" alt="Debugging"/>
-<img src="https://img.shields.io/badge/PENETRATION_TESTING-171321?style=for-the-badge&logo=kalilinux&logoColor=A78BFA" alt="Penetration Testing"/>
-<img src="https://img.shields.io/badge/EXPLOIT_RESEARCH-171321?style=for-the-badge&logo=hackthebox&logoColor=A78BFA" alt="Exploit Research"/>
+<h2 align="center">SECURITY INTERESTS</h2>
 
-<br><br>
-| Cybersecurity | Software Development |
-|:---:|:---:|
-| Security Analysis | CLI Applications |
-| Debugging & Testing | Web Development |
-
-</div>
-
----
-
-<h2 align="center">⌁ LANGUAGES & TECHNOLOGIES</h2>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,bash,linux,html,php,js&theme=dark" alt="Languages and Technologies"/>
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/PENETRATION_TESTING-111111?style=flat-square&logo=kalilinux&logoColor=00FF99">
+  <img src="https://img.shields.io/badge/BUG_BOUNTY-111111?style=flat-square&logo=hackerone&logoColor=00FF99">
+  <img src="https://img.shields.io/badge/EXPLOIT_RESEARCH-111111?style=flat-square&logo=hackthebox&logoColor=00FF99">
+  <img src="https://img.shields.io/badge/WEB_SECURITY-111111?style=flat-square&logo=owasp&logoColor=00FF99">
+</p>
 
 ---
 
-<h2 align="center">⌁ GITHUB STATISTICS</h2>
+<h2 align="center">CONTACT</h2>
 
-<div align="center">
+<p align="center">
+  <a href="tg://resolve?domain=paryshoni">
+    <img src="https://img.shields.io/badge/TELEGRAM-@paryshoni-111111?style=for-the-badge&logo=telegram&logoColor=00FF99">
+  </a>
+</p>
 
-<a href="https://github.com/S-Vandal">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=S-Vandal&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats"/>
-</a><a href="https://github.com/S-Vandal">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Vandal&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Top Languages"/>
-</a>
-
-<br><br>
-
-<a href="https://github.com/S-Vandal?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_REPOSITORIES-0D1117?style=for-the-badge&logo=github&logoColor=A78BFA" alt="Explore Repositories"/>
-</a>
-
-<br><br>
-
-<sub>Always finish your work without leaving a trace .</sub>
-
-</div>
+<p align="center">
+  <code>Remember , the most important thing is to stay hidden</code>
+</p>
