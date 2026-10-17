@@ -4,8 +4,6 @@
 
 **Hi, I'm Sadra — you can call me Vandal.**
 
-Security Researcher · Developer
-
 <br>
 
 <a href="https://github.com/S-Vandal">
