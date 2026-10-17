@@ -1,10 +1,34 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=800&color=00FFAA&center=true&vCenter=true&width=500&lines=Mohammad+Sadra;%3E+call+me+Vandal;%3E+17+y%2Fo" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff88,100:0d1117&height=180&section=header&text=Mohammad%20Sadra&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=aka%20Vandal%20%C2%B7%2017&descAlignY=60&descSize=20&animation=fadeIn" width="100%"/>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
+</div>
 
-### Hi 👋 I'm Sadra — call me **Vandal** · 17 y/o
+<table>
+<tr>
+<td width="55%" valign="top">
+
+```yaml
+name:      Mohammad Sadra
+alias:     Vandal
+age:       17
+focus:     offensive security
+languages: [python, bash, linux, html, php, javascript]
+skills:    [debugging, pentesting, attack, exploit]
+```
+
+</td>
+<td width="45%" align="center">
+
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="260"/>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=460&lines=%24+whoami;%3E+mohammad+sadra+%2F+vandal;%24+age+--show;%3E+17;%24+cat+skills.txt;%3E+debug+%C2%B7+pentest+%C2%B7+attack+%C2%B7+exploit" />
 
 </div>
 
@@ -12,14 +36,12 @@
 
 <div align="center">
 
-### 🧠 Languages
-<img src="https://skillicons.dev/icons?i=py,bash,linux,html,php,js&theme=dark" />
-
-### ⚔️ Skills
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=600&color=FF3355&center=true&vCenter=true&width=520&lines=Debugging+%F0%9F%90%9E;Penetration+Testing+%F0%9F%9B%A1%EF%B8%8F;Attack+Techniques+%F0%9F%92%A5;Exploit+Development+%F0%9F%9A%80" />
+<img src="https://skillicons.dev/icons?i=py,bash,linux,html,php,js&theme=dark&perline=6" />
 
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
 </div>
